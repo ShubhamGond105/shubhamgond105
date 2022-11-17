@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **My Team Enigma.**
 
-- 📝 I regularly write articles on [https://shubhamgond105.github.io/Code-With-Blogger/](https://shubhamgond105.github.io/Code-With-Blogger/)
+- 📝 I regularly write Blog on [https://shubhamgond105.github.io/Code-With-Blogger/](https://shubhamgond105.github.io/Code-With-Blogger/)
 
 - 💬 Ask me about **Basic of Java,Html,Css.**
 
