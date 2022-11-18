@@ -1,9 +1,8 @@
+<p align="center"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt=""width="300px"> </p>
 <h1 align="center">Hi 👋, I'm Shubham Gond</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgond105&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgond105" /> </p>
- <div><img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt=""width="300px"></div>
-    
 - 🔭 I’m currently working on **Blogging Website**
 
 - 🌱 I’m currently learning **Java , Html , Css.**
@@ -21,6 +20,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-gond-13ab41242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-gond-13ab41242/" height="30" width="40" /></a>
+ <a href="https://twitter.com/shubham58969143" target="blank"><img align="center"
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham58969143" height="30" width="40" /></a>
+ <a href="https://fb.com/shubham.gond.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham.gond.14" height="30" width="40" /></a>
+ <a href="https://instagram.com/shubhamgond875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamgond875" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shubham kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham kashyap" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shubhamgond105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubhamgond105" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/shubhamgond105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shubhamgond105" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamgiq2h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamgiq2h" height="30" width="40" /></a>
