@@ -1,6 +1,7 @@
-<p align="center"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt=""width="300px"> </p>
+
 <h1 align="center">Hi 👋, I'm Shubham Gond</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right"coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgond105&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgond105" /> </p>
 - 🔭 I’m currently working on **Blogging Website**
