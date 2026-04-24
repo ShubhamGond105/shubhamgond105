@@ -1,42 +1,108 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shubham Gond</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right"coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Gond&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgond105&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgond105" /> </p>
-- 🔭 I’m currently working on **My own website**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=650&lines=Python+%2B+AI%2FML+%2B+RAG+Developer;Open+Source+Contributor;GSoC+2026"/>
 
-- 🌱 I’m currently learning **Java , Html , Css.**
+<br/>
 
-- 🤝 I’m looking for help with **Team Enigma.**
+<img src="https://komarev.com/ghpvc/?username=shubhamgond105&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/shubhamgond105?label=Followers&style=social" alt="followers"/>
 
-- 💬 Ask me about **Basic of Java,Html,Css.**
+</div>
 
-- 📫 How to reach me **shubhamgond105@gmail.com**
+---
 
-- ⚡ Fun fact **I am lazy but smart.**
-                
-                                                                                                                                    
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-gond-13ab41242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-gond-13ab41242/" height="30" width="40" /></a>
- <a href="https://twitter.com/shubham58969143" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham58969143" height="30" width="40" /></a>
- <a href="https://fb.com/shubham.gond.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham.gond.14" height="30" width="40" /></a>
- <a href="https://instagram.com/shubhamgond875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamgond875" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shubham kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham kashyap" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shubhamgond105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubhamgond105" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shubhamgond105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shubhamgond105" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shubhamgiq2h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamgiq2h" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+```python
+class ShubhamGond:
+    name        = "Shubham Gond"
+    degree      = "B.Tech IT — 4th Year 🎓"
+    location    = "Prayagraj, India 🇮🇳"
+    focus       = ["Python", "AI/ML", "RAG Systems", "Open Source"]
+    goal        = "GSoC 2026 @ Haystack/deepset 🎯"
+    achievement = "Fixed security vulnerability in 48k⭐ LlamaIndex 🔐"
+    fun_fact    = "I am lazy but smart 😄"
+```
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shubhamdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhamdev" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamgond105&show_icons=true&locale=en&layout=compact" alt="shubhamgond105" /></p>
+## 🚀 Open Source Contributions
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamgond105&show_icons=true&locale=en" alt="shubhamgond105" /></p>
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| 🦙 **[LlamaIndex](https://github.com/run-llama/llama_index)** ![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat&color=yellow) | Fixed `torch.load()` security vulnerability — prevented arbitrary code execution via pickle deserialization | 🟡 Under Review |
+| 🌾 **[Haystack](https://github.com/deepset-ai/haystack)** ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat&color=yellow) | Fixed async test mixins to use only async methods end-to-end | ✅ Contributed |
+| ⚗️ **[Agenta](https://github.com/Agenta-AI/agenta)** ![](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat&color=yellow) | Active LLMOps platform contributor | 🔄 Active |
 
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logoColor=white)
+
+**Backend & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamgond105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgond105&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgond105&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 💡 Currently
+
+- 🔭 Contributing to **LlamaIndex, Haystack & Agenta**
+- 🌱 Learning **RAG Systems, LLMOps & Agentic AI**
+- 🎯 Goal: **GSoC 2026 with Haystack/deepset**
+- 🔐 Fixed a **security vulnerability** in a **48k⭐** repo!
+- ⚡ Fun fact: **I am lazy but smart 😄**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-gond-13ab41242/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamgond105@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubham58969143)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@shubhamgond105)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shubhamgiq2h)
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Code.%20Contribute.%20Grow.%20Repeat.%20🚀&fontSize=18&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+</div>
