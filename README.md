@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Gond&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=650&lines=Python+%2B+AI%2FML+%2B+RAG+Developer;Open+Source+Contributor;GSoC+2026"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=650&lines=Python+%2B+Gen%2FAI+%2B+RAG+Developer;Open+Source+Contributor;GSoC+2027"/>
 
 <br/>
 
