@@ -33,8 +33,9 @@ class ShubhamGond:
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
-| 🦙 **[LlamaIndex](https://github.com/run-llama/llama_index)** ![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat&color=yellow) | Fixed `torch.load()` security vulnerability — prevented arbitrary code execution via pickle deserialization | 🟡 Under Review |
+| 🌾 **[Haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations)** ![](https://img.shields.io/github/stars/deepset-ai/haystack-core-integrations?style=flat&color=yellow) |fix/chroma-async-mixin-tests | ✅ MERGED! 🎉 |
 | 🌾 **[Haystack](https://github.com/deepset-ai/haystack)** ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat&color=yellow) | Fixed async test mixins to use only async methods end-to-end | ✅ Contributed |
+| 🦙 **[LlamaIndex](https://github.com/run-llama/llama_index)** ![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat&color=yellow) | Fixed `torch.load()` security vulnerability — prevented arbitrary code execution via pickle deserialization | 🟡 Under Review |
 | ⚗️ **[Agenta](https://github.com/Agenta-AI/agenta)** ![](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat&color=yellow) | Active LLMOps platform contributor | 🔄 Active |
 
 ---
