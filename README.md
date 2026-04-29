@@ -20,8 +20,8 @@
 class ShubhamGond:
     name        = "Shubham Gond"
     degree      = "B.Tech IT — 4th Year 🎓"
-    location    = "Prayagraj, India 🇮🇳"
-    focus       = ["Python", "AI/ML", "RAG Systems", "Open Source"]
+    location    = "Lucknow, India 🇮🇳"
+    focus       = ["Python", "Gen-AI", "RAG Systems", "Open Source"]
     goal        = "GSoC 2026 @ Haystack/deepset 🎯"
     achievement = "Fixed security vulnerability in 48k⭐ LlamaIndex 🔐"
     fun_fact    = "I am lazy but smart 😄"
@@ -33,10 +33,10 @@ class ShubhamGond:
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
-| 🌾 **[Haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations)** ![](https://img.shields.io/github/stars/deepset-ai/haystack-core-integrations?style=flat&color=yellow) |fix/chroma-async-mixin-tests | ✅ MERGED! 🎉 |
-| 🌾 **[Haystack](https://github.com/deepset-ai/haystack)** ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat&color=yellow) | Fixed async test mixins to use only async methods end-to-end | ✅ Contributed |
-| 🦙 **[LlamaIndex](https://github.com/run-llama/llama_index)** ![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat&color=yellow) | Fixed `torch.load()` security vulnerability — prevented arbitrary code execution via pickle deserialization | 🟡 Under Review |
-| ⚗️ **[Agenta](https://github.com/Agenta-AI/agenta)** ![](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat&color=yellow) | Active LLMOps platform contributor | 🔄 Active |
+| **[Haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations)** ![](https://img.shields.io/github/stars/deepset-ai/haystack-core-integrations?style=flat&color=yellow) |fix/chroma-async-mixin-tests | ✅ MERGED! |
+| **[Haystack](https://github.com/deepset-ai/haystack)** ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat&color=yellow) | Fixed async test mixins to use only async methods end-to-end | ✅ Contributed |
+| **[LlamaIndex](https://github.com/run-llama/llama_index)** ![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat&color=yellow) | Fixed `torch.load()` security vulnerability — prevented arbitrary code execution via pickle deserialization | 🟡 Under Review |
+| **[Agenta](https://github.com/Agenta-AI/agenta)** ![](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat&color=yellow) | Active LLMOps platform contributor | 🔄 Active |
 
 ---
 
